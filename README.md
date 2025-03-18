@@ -1,6 +1,8 @@
 # ols_regress
 Ordinary least squares regression (OLS) Use ols_regress (olsrr) With (In) R Software
 
+https://www.youtube.com/watch?v=JyxllFuJNEo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
